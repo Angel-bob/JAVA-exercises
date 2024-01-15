@@ -1,0 +1,9 @@
+#Products - Ex
+
+    Make a program to read data from N products (N provided by the user).
+    At the end, show the price tag of each product in the same order in which they were entered.
+
+    Every product has a name and price. Imported products have a customs fee, and
+    Used products have a manufacturing date. These specific data must be added
+    on the price tag. For imported products, tax and customs must be added to the price
+    end of the product;
